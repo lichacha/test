@@ -9,3 +9,6 @@ git rm删掉 并git commit
 
 创建SSH Key 
 ssh-keygen -t rsa -C "youremail@example.com"
+
+git remote add origin https://github.com/lichacha/test.git
+git push -u origin master  第一次远程加参数
