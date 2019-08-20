@@ -1,1 +1,8 @@
-123
+git add
+git commit -m "biaoji"
+git status
+git log
+git reset --hard commit_id
+git checkout -- file Î´addÇ°³·Ïú
+
+git rmÉ¾µô ²¢git commit
