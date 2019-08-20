@@ -6,3 +6,6 @@ git reset --hard commit_id
 git checkout -- file 未add前撤销
 
 git rm删掉 并git commit
+
+创建SSH Key 
+ssh-keygen -t rsa -C "youremail@example.com"
